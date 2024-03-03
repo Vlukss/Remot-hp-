@@ -1,7 +1,8 @@
 # Remot hp os 10 kebawah
 <pre><code> https://www.mediafire.com/file/z63l4fmadz1rrpr/Duplila_-_Mirror_Screen_3.0_apkcombo.com.apk/file</code></pre>
 <br>
-# Remot hp os 11 keatas
+
+# Remot os 11 keatas
 <pre><code>https://www.mediafire.com/file/4hbdku1vwqtbacn/scrcpy-debug.apk/file</code></pre>
 <br>
 
