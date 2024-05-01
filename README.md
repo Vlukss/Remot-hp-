@@ -6,5 +6,9 @@
 <pre><code>https://www.mediafire.com/file/4hbdku1vwqtbacn/scrcpy-debug.apk/file</code></pre>
 <br>
 
+
+# Auto adb
+<pre>https://www.mediafire.com/file/69sp0ersrkjopvi/Adb-Root-Enabler-1.2-mtp.zip/file</code></pre>
+
 # Note 
 aktifkan usb debugging & untuk via wireless hotspot aktifkan usb debug nirkabel, jika remot os 11 keatas buka apk duplila atur alamat ip hp yang mau di remot & port nya setelah terpairing ( konek ) lanjut buka apk scrcpy ketik alamat ip yang sama lalu connect done selamat mencoba:)
